@@ -60,7 +60,7 @@ char **list_to_strings(list_t *head)
  * print_list - gives all elements of list_t linked list[]
  * @h: pointer to 1st node
  *
- * Return: list size ..
+ * Return: list size .
  */
 
 size_t print_list(const list_t *h)
