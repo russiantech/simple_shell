@@ -40,7 +40,7 @@ list_t *add_node(list_t **head, const char *str, int num)
  * @str: str field of node
  * @num: node index used by history there.
  *
- * Return: size of list ...
+ * Return: size of list ..
  */
 
 list_t *add_node_end(list_t **head, const char *str, int num)
